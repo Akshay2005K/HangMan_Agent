@@ -35,6 +35,7 @@ This notebook performs the entire workflow:
 
 ## Folder Structure (Google Drive)
 MyDrive/
+
 └── ML_Hackathon/
 
 ├── Data/
