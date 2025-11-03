@@ -36,10 +36,15 @@ This notebook performs the entire workflow:
 ## Folder Structure (Google Drive)
 MyDrive/
 └── ML_Hackathon/
+
 ├── Data/
+
 │ ├── corpus.txt # Training corpus for HMM
+
 │ ├── test.txt # Test dataset
+
 │ └── hangman_hmm.pkl # Saved trained HMM model
+
 └── Hangman_Hybrid_Agent.ipynb
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,8 +54,11 @@ MyDrive/
 1. Upload the following to your Google Drive:
 
 /MyDrive/ML_Hackathon/Data/
+
 ├── corpus.txt
+
 └── test.txt
+
 
 2. Open the notebook in **Google Colab**.
 3. Run all cells sequentially.
